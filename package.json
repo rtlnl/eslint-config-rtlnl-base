@@ -1,6 +1,6 @@
 {
   "name": "@rtlnl/eslint-config-rtlnl-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint base configuration file for @rtlnl",
   "main": "index.js",
   "private": false,
@@ -12,7 +12,9 @@
     "eslint",
     "config",
     "airbnb",
-    "rtlnl"
+    "rtlnl",
+    "typescript",
+    "prettier"
   ],
   "author": "rtl.nl <@rtlnl>",
   "license": "MIT",
