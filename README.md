@@ -43,8 +43,8 @@ Example:
   }
 }
 
-.prettierrc.js
 
+.prettierrc.js
 module.exports = {
   ...require('@rtlnl/eslint-config-rtlnl-base/.prettierrc.js'),
   ...customParams
