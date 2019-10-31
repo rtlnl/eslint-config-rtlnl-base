@@ -1,6 +1,6 @@
 {
   "name": "@rtlnl/eslint-config-rtlnl-base",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint base configuration file for @rtlnl",
   "main": "index.js",
   "private": false,
