@@ -1,0 +1,36 @@
+{
+  "name": "@rtlnl/eslint-config-rtlnl-base",
+  "version": "1.0.1",
+  "description": "ESLint base configuration file for @rtlnl",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtlnl/eslint-config-rtlnl-base.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "airbnb",
+    "rtlnl"
+  ],
+  "author": "rtl.nl <@rtlnl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtlnl/eslint-config-rtlnl-base/issues"
+  },
+  "homepage": "https://github.com/rtlnl/eslint-config-rtlnl-base",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.0",
+    "@typescript-eslint/parser": "^2.6.0",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
+  }
+}
