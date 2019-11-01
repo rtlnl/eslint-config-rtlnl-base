@@ -1,10 +1,12 @@
 # eslint-config-rtlnl-base
 
+https://www.npmjs.com/package/@rtlnl/eslint-config-rtlnl-base
+
 ## Introduction
 
 This is the base ESLint configuration file used at rtlnederland.
 
-It is based on [Airbnb's config](https://www.npmjs.com/package/eslint-config-airbnb).
+It is based on [Airbnb's config](https://www.npmjs.com/package/eslint-config-airbnb) and [Prettier](https://www.npmjs.com/package/prettier).
 
 ## Installation
 
